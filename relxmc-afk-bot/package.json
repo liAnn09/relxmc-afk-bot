@@ -1,0 +1,28 @@
+{
+  "name": "relxmc-afk-bot",
+  "version": "1.0.0",
+  "description": "Bot AFK multi-akun untuk server Minecraft RelxMC (mineflayer) dengan dashboard dan kontrol lewat Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "discord",
+    "afk-bot",
+    "discord.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.5",
+    "mineflayer": "^4.39.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
