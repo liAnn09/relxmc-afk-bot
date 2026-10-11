@@ -26,7 +26,7 @@ Bot AFK multi-akun untuk server Minecraft **play.relxmc.com**, dibangun dengan [
 ## Instalasi
 
 ```bash
-git clone https://github.com/<username>/relxmc-afk-bot.git
+git clone https://github.com/liAnn09/relxmc-afk-bot.git
 cd relxmc-afk-bot
 npm install
 
